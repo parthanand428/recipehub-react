@@ -11,6 +11,7 @@ const FoodCard = ({ recipe }) => {
       return false;
     }
   };
+  //commit
 
   const imageUrl =
     (recipe.image &&
