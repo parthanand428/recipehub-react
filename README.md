@@ -1,46 +1,43 @@
-# Recipefy
+# RecipeHub – React Recipe Application
+
 ![Page Screenshot](public/screenshot/Screenshot.png)
-Recipefy is a web application that allows users to search for recipes based on keywords, meal types, or ingredients. It utilizes the Spoonacular API to provide a list of recipes with details such as recipe name, preparation time, and cooking instructions. Users can also filter recipes by meal type.
 
-## Technologies
+RecipeHub is a web application that allows users to search for recipes based on keywords, meal types, or ingredients. It uses the Spoonacular API to fetch recipes along with details such as preparation time and cooking instructions. Users can also filter recipes by meal type.
 
-Recipefy is built with the following technologies:
+---
 
-- [ReactJS](https://reactjs.org/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [React Query](https://react-query.tanstack.com/)
-- [React Router](https://reactrouter.com/)
+## 🛠 Technologies Used
 
-For detailed information on these technologies, please refer to their respective documentation.
+- React.js
+- Tailwind CSS
+- React Query
+- React Router
 
-## API
+---
 
-The recipe data is sourced from the [Spoonacular API](https://spoonacular.com/food-api). Please refer to their documentation for more information on how to use the API.
+## 🌐 API Used
 
-## Features
+This project uses the **Spoonacular API** to fetch recipe data.  
+For more details, visit: https://spoonacular.com/food-api
 
-- Users can search for recipes based on keywords, meal types, or ingredients.
-- Users can filter food recipes by meal type.
-- The application provides a list of recipes with details such as recipe name, preparation time, and cooking instructions.
+---
 
+## ✨ Features
 
-## Installation
+- Search recipes by keywords, ingredients, or meal type
+- Filter recipes based on meal categories
+- View recipe details including preparation time and instructions
+- Responsive and user-friendly UI
 
-To use this application, you will need [Node.js](https://nodejs.org/) installed on your computer.
+---
 
-1. Clone the repository:
+## ⚙️ Installation & Setup
+
+Make sure **Node.js** is installed on your system.
+
+### 1. Clone the repository
 ```bash
-get clone https://github.com/sachin00611/cook-book-recipefy.git
-cd cook-recipe-web-app
-```
+git clone https://github.com/parthanand428/recipehub-react.git
+cd recipehub-react
 
-2. Install the dependencies:
-```bash
-npm install
-```
-3. Start the development server:
-```bash
-npm start
-```
-This will start the development server and open the application in your default browser
 
