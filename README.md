@@ -1,6 +1,15 @@
 # RecipeHub – React Recipe Application
 
-![Page Screenshot](public/screenshot/Screenshot.png)
+## 📸 Screenshots
+
+### Home Page
+![Home Page](public/screenshots/home.png)
+
+### Recipes List
+![Recipes List](public/screenshots/recipes.png)
+
+### Recipe Details
+![Recipe Details](public/screenshots/details.png)
 
 RecipeHub is a web application that allows users to search for recipes based on keywords, meal types, or ingredients. It uses the Spoonacular API to fetch recipes along with details such as preparation time and cooking instructions. Users can also filter recipes by meal type.
 
